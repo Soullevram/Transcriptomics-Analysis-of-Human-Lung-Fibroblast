@@ -3,4 +3,4 @@ The aim of this mini-project was to produce a R-markdown document, specifically,
 
 An analytical pipeline was created by piecing together requisite R packages, as appropriate for the chosen dataset. The workflow should included post-processing and preliminary exploration of the dataset, analysis for differentially expressed genes, and analysis for enriched Gene Ontology and/or pathway terms. 
 
-Visit the GitHub Page link on the right side to see the full analysis. 
+Visit the GitHub Pages website on the right side to see the full analysis. 
